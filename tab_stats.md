@@ -17,7 +17,7 @@ tags: headers
 
 
 
-⏲️ Last update: 08/03/2025 at 02:29:08 - Domains analyzed count: 150000.
+⏲️ Last update: 09/03/2025 at 01:46:40 - Domains analyzed count: 150000.
 
 ## Global usage of secure headers
 
@@ -96,6 +96,13 @@ Provide the distribution of usage of the header 'X-Content-Type-Options' across 
 ![0259a15512c639e10df724dc019babf03534b303](assets/tab_stats_generated_images/0259a15512c639e10df724dc019babf03534b303.png)
 
 
+## Global usage of header 'X-DNS-Prefetch-Control'
+
+Provide the distribution of usage of the header 'X-DNS-Prefetch-Control' across all domains analyzed.
+
+![460eceb55159ded1b44e77ce9a62448e083d4f2e](assets/tab_stats_generated_images/460eceb55159ded1b44e77ce9a62448e083d4f2e.png)
+
+
 ## Global usage of header 'X-Frame-Options'
 
 Provide the distribution of usage of the header 'X-Frame-Options' across all domains analyzed.
@@ -137,7 +144,7 @@ Provide the distribution of usage of the '[preload](https://developer.mozilla.or
 
 * Most common value used is 31536000 seconds (525600 minutes) across all domains analyzed.
 * Maximum value used is 447897600000 seconds (7464960000 minutes) across all domains analyzed.
-* Minimum value used is -305092504 seconds (-5084875 minutes) across all domains analyzed.
+* Minimum value used is -307770305 seconds (-5129505 minutes) across all domains analyzed.
 
 
 ## Global usage of content security policy with directives allowing unsafe expressions
