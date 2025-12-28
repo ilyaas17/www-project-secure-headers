@@ -1,7 +1,7 @@
 
 # Technical References Dashboard
 
-> :timer_clock: Last verification (UTC): 2025-12-21 02:08:21
+> :timer_clock: Last verification (UTC): 2025-12-28 02:20:15
 
 ## GitHub repositories health status
 
@@ -34,8 +34,8 @@ Project reaching the :red_circle: status **are removed**.
 | `2025-11-24T23:47:33Z` (1 months ago) | :green_circle: | [bepsvpt/secure-headers](https://github.com/bepsvpt/secure-headers) |
 | `2025-12-01T01:36:49Z` (0 months ago) | :green_circle: | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
 | `2025-12-16T11:00:16Z` (0 months ago) | :green_circle: | [TypeError/secure](https://github.com/TypeError/secure) |
-| `2025-12-19T21:51:29Z` (0 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
 | `2025-12-20T11:44:01Z` (0 months ago) | :green_circle: | [andrewlock/NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) |
-| `2025-12-20T22:02:03Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
-| `2025-12-20T22:24:55Z` (0 months ago) | :green_circle: | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
+| `2025-12-22T16:11:17Z` (0 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
+| `2025-12-26T19:28:28Z` (0 months ago) | :green_circle: | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
+| `2025-12-27T21:01:58Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
 
