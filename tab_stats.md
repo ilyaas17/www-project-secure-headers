@@ -17,7 +17,7 @@ tags: headers
 
 
 
-⏲️ Last update: 12/03/2025 at 02:01:18 - Domains analyzed count: 150000.
+⏲️ Last update: 01/03/2026 at 02:03:23 - Domains analyzed count: 150000.
 
 ## Global usage of secure headers
 
@@ -144,7 +144,7 @@ Provide the distribution of usage of the '[preload](https://developer.mozilla.or
 
 * Most common value used is 31536000 seconds (525600 minutes) across all domains analyzed.
 * Maximum value used is 447897600000 seconds (7464960000 minutes) across all domains analyzed.
-* Minimum value used is -315632002 seconds (-5260533 minutes) across all domains analyzed.
+* Minimum value used is -318309645 seconds (-5305161 minutes) across all domains analyzed.
 
 
 ## Global usage of content security policy with directives allowing unsafe expressions
