@@ -1,7 +1,7 @@
 
 # Technical References Dashboard
 
-> :timer_clock: Last verification (UTC): 2026-01-04 02:21:51
+> :timer_clock: Last verification (UTC): 2026-01-11 02:21:38
 
 ## GitHub repositories health status
 
@@ -34,8 +34,8 @@ Project reaching the :red_circle: status **are removed**.
 | `2025-12-16T11:00:16Z` (1 months ago) | :green_circle: | [TypeError/secure](https://github.com/TypeError/secure) |
 | `2025-12-20T11:44:01Z` (1 months ago) | :green_circle: | [andrewlock/NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) |
 | `2025-12-26T19:28:28Z` (1 months ago) | :green_circle: | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
-| `2025-12-30T20:08:38Z` (1 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
-| `2025-12-30T21:12:17Z` (1 months ago) | :green_circle: | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
 | `2026-01-01T18:57:04Z` (0 months ago) | :green_circle: | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
-| `2026-01-03T21:45:27Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
+| `2026-01-07T12:32:06Z` (0 months ago) | :green_circle: | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
+| `2026-01-08T21:11:06Z` (0 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
+| `2026-01-10T19:57:24Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
 
