@@ -1,7 +1,7 @@
 
 # Technical References Dashboard
 
-> :timer_clock: Last verification (UTC): 2026-03-22 02:44:23
+> :timer_clock: Last verification (UTC): 2026-03-29 02:54:25
 
 ## GitHub repositories health status
 
@@ -33,9 +33,9 @@ Project reaching the :red_circle: status **are removed**.
 | `2026-02-20T14:46:48Z` (1 months ago) | :green_circle: | [sdelements/django-security](https://github.com/sdelements/django-security) |
 | `2026-02-28T04:09:41Z` (1 months ago) | :green_circle: | [google/csp-evaluator](https://github.com/google/csp-evaluator) |
 | `2026-03-06T15:04:16Z` (0 months ago) | :green_circle: | [hapijs/hapi](https://github.com/hapijs/hapi) |
-| `2026-03-12T10:02:44Z` (0 months ago) | :green_circle: | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
-| `2026-03-16T17:45:37Z` (0 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
 | `2026-03-17T22:57:54Z` (0 months ago) | :green_circle: | [bepsvpt/secure-headers](https://github.com/bepsvpt/secure-headers) |
-| `2026-03-20T12:18:42Z` (0 months ago) | :green_circle: | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
-| `2026-03-21T21:31:00Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
+| `2026-03-23T22:05:16Z` (0 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
+| `2026-03-25T08:50:10Z` (0 months ago) | :green_circle: | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
+| `2026-03-25T23:10:16Z` (0 months ago) | :green_circle: | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
+| `2026-03-28T19:34:53Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
 
