@@ -1,7 +1,7 @@
 
 # Technical References Dashboard
 
-> :timer_clock: Last verification (UTC): 2026-05-24 04:05:58
+> :timer_clock: Last verification (UTC): 2026-05-31 04:18:58
 
 ## GitHub repositories health status
 
@@ -31,11 +31,11 @@ Project reaching the :red_circle: status **are removed**.
 | `2026-04-30T12:37:00Z` (1 months ago) | :green_circle: | [TypeError/secure](https://github.com/TypeError/secure) |
 | `2026-05-01T20:53:04Z` (0 months ago) | :green_circle: | [unrolled/secure](https://github.com/unrolled/secure) |
 | `2026-05-06T10:38:07Z` (0 months ago) | :green_circle: | [hapijs/hapi](https://github.com/hapijs/hapi) |
-| `2026-05-08T14:01:12Z` (0 months ago) | :green_circle: | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
 | `2026-05-10T21:43:45Z` (0 months ago) | :green_circle: | [andrewlock/NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) |
-| `2026-05-19T15:27:07Z` (0 months ago) | :green_circle: | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
-| `2026-05-19T19:57:05Z` (0 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
-| `2026-05-19T20:28:19Z` (0 months ago) | :green_circle: | [google/csp-evaluator](https://github.com/google/csp-evaluator) |
-| `2026-05-23T18:23:52Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
 | `2026-05-23T18:33:43Z` (0 months ago) | :green_circle: | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
+| `2026-05-26T12:52:22Z` (0 months ago) | :green_circle: | [google/csp-evaluator](https://github.com/google/csp-evaluator) |
+| `2026-05-27T18:02:10Z` (0 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
+| `2026-05-27T22:14:07Z` (0 months ago) | :green_circle: | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
+| `2026-05-30T15:49:55Z` (0 months ago) | :green_circle: | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
+| `2026-05-30T19:49:10Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
 
