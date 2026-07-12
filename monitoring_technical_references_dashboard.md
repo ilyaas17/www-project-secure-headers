@@ -1,7 +1,7 @@
 
 # Technical References Dashboard
 
-> :timer_clock: Last verification (UTC): 2026-07-05 03:55:26
+> :timer_clock: Last verification (UTC): 2026-07-12 03:25:37
 
 ## GitHub repositories health status
 
@@ -32,10 +32,10 @@ Project reaching the :red_circle: status **are removed**.
 | `2026-05-06T10:38:07Z` (2 months ago) | :green_circle: | [hapijs/hapi](https://github.com/hapijs/hapi) |
 | `2026-05-10T21:43:45Z` (2 months ago) | :green_circle: | [andrewlock/NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) |
 | `2026-05-26T12:52:22Z` (2 months ago) | :green_circle: | [google/csp-evaluator](https://github.com/google/csp-evaluator) |
-| `2026-06-22T18:06:26Z` (1 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
-| `2026-06-22T20:01:55Z` (1 months ago) | :green_circle: | [TypeError/secure](https://github.com/TypeError/secure) |
 | `2026-06-23T22:57:55Z` (1 months ago) | :green_circle: | [GaProgMan/OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) |
-| `2026-06-25T20:34:27Z` (1 months ago) | :green_circle: | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
-| `2026-07-01T21:33:27Z` (0 months ago) | :green_circle: | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
-| `2026-07-04T22:54:08Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
+| `2026-07-06T16:36:42Z` (0 months ago) | :green_circle: | [github/secure_headers](https://github.com/github/secure_headers) |
+| `2026-07-10T21:22:04Z` (0 months ago) | :green_circle: | [TypeError/secure](https://github.com/TypeError/secure) |
+| `2026-07-11T20:27:16Z` (0 months ago) | :green_circle: | [rfc-st/humble](https://github.com/rfc-st/humble) |
+| `2026-07-11T20:47:25Z` (0 months ago) | :green_circle: | [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) |
+| `2026-07-12T01:24:55Z` (0 months ago) | :green_circle: | [helmetjs/helmet](https://github.com/helmetjs/helmet) |
 
